@@ -1,8 +1,8 @@
-# Git-and-Github-Workshop-DRESTEIN-24
-NAME:  Akila P
-REGISTER NUMBER :  212222060012
-DEPARTMENT :  ECE
-YEAR :  3rd year
+# Git-and-Github-Workshop-DRESTEIN-24<br>
+NAME:  Akila P<br>
+REGISTER NUMBER :  212222060012<br>
+DEPARTMENT :  ECE<br>
+YEAR :  3rd year<br>
 
 Git and GitHub Workshop Assignment  
 Complete the following tasks to practice core Git commands. Answer each question and perform the associated Git operations.  
